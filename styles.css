@@ -1,0 +1,21 @@
+#container {
+  padding-left: 100px;
+  padding-top: 100px;
+}
+
+#container img {
+  width: 325px;
+  padding-bottom: 25px;
+}
+
+#container p {
+  text-align: center;
+}
+
+p {
+  color: #ccc;
+}
+
+body {
+  background-color: #78e428;
+}
